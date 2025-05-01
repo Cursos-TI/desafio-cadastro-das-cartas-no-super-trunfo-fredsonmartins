@@ -12,7 +12,7 @@ char codigodacarta[20] ="G";
 //float pib = 1.500;
 //int pontosturisticos = 600;
 
-printf("O estado e: %c\s", estado);
+printf("O teste e: %c\n", estado);
 printf("o codigo da carta e:%c\n", g);
 
 
